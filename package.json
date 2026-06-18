@@ -7,7 +7,7 @@
     },
     "dependencies": {
         "@octokit/rest": "latest",
- "@zeppeliorg/wbails": "latest", 
+ "@otaxayuns/baileys": "npm:@ayunlove/bails@latest", 
    "@google/generative-ai": "^0.24.1", 
         "axios": "^1.5.0",
         "chalk": "^4.1.2",
